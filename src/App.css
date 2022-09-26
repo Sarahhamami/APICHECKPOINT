@@ -1,0 +1,21 @@
+table, th, td {
+  border-radius: 3px grey;
+
+}
+th{
+  background-color: #95A5A6;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+h2{
+  font-size: 26px;
+ 
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.App{
+  background-color:rgb(221, 224, 225);
+  height: 100%;
+  padding-top: 20px;
+}
